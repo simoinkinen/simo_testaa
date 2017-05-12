@@ -1,3 +1,6 @@
+
+package com.simo.tepe;
+
 public class HelloWorld {
    public static void say(String message) {
       System.out.println(message);
